@@ -15,4 +15,4 @@ async def on_ready():
     await client.change_presence(status = discord.Status.online, activity = discord.Game("Welcome to the Dreams"))
 
 
-client.run(' ODA4NzA0NTAxMjQ5ODY3ODA2.YCKawg.n8Ti2Vk8hQCdPFxCbvWc_SVHCQo')
+client.run('Bot Token')
